@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>خدمات التزويد والشحن</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid #444;
+            border-radius: 15px;
+            background-color: #111;
+        }
+
+        h1 {
+            color: #0f0;
+        }
+
+        p {
+            color: #ccc;
+            font-size: 18px;
+            margin: 20px 0;
+        }
+
+        a {
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 10px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .whatsapp-button {
+            background-color: #25D366;
+            color: #000;
+        }
+
+        .order-button {
+            background-color: gold;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 خدمات تزويد السوشيال ميديا وشحن الألعاب</h1>
+        <p>وفر وقتك وجهدك، واطلب كل خدماتك من مكان واحد 💪</p>
+        <a href="https://wa.me/201027662232" class="whatsapp-button">تواصل واتساب 📞</a>
+        <a href="#" class="order-button">اطلب خدمة</a>
+    </div>
+</body>
+</html>
